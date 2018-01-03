@@ -1,11 +1,8 @@
 package com.example.bm_pc.new_cool_weather;
 
-import android.app.Dialog;
 import android.app.Fragment;
 import android.app.ProgressDialog;
-import android.content.Intent;
 import android.os.Bundle;
-import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -20,8 +17,8 @@ import com.example.bm_pc.new_cool_weather.db.City;
 import com.example.bm_pc.new_cool_weather.db.County;
 import com.example.bm_pc.new_cool_weather.db.Province;
 
-import com.example.bm_pc.util.HttpUtil;
-import com.example.bm_pc.util.Utility;
+import com.example.bm_pc.new_cool_weather.util.HttpUtil;
+import com.example.bm_pc.new_cool_weather.util.Utility;
 
 import org.litepal.crud.DataSupport;
 
