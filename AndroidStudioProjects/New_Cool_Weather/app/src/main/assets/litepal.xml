@@ -1,6 +1,6 @@
 <litepal>
     <dbname value="New_Cool_weather"/>
-    <version value="1"/>
+    <version value="2"/>
     <list>
         <mapping class="com.example.bm_pc.new_cool_weather.db.Province"/>
         <mapping class="com.example.bm_pc.new_cool_weather.db.City"/>
