@@ -1,6 +1,7 @@
-package com.example.bm_pc.new_cool_weather.util;
+package com.example.bm_pc.util;
 
 import android.text.TextUtils;
+
 
 import com.example.bm_pc.new_cool_weather.db.City;
 import com.example.bm_pc.new_cool_weather.db.County;
@@ -11,7 +12,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /**
- * Created by BM-PC on 2018/1/2.
+ * Created by Belief on 2018/1/2.
  */
 
 public class Utility {
@@ -77,4 +78,3 @@ public class Utility {
         return false;
     }
 }
-

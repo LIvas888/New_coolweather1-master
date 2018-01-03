@@ -3,10 +3,11 @@ package com.example.bm_pc.new_cool_weather.db;
 import org.litepal.crud.DataSupport;
 
 /**
- * Created by BM-PC on 2018/1/2.
+ * Created by Belief on 2018/1/2.
  */
 
 public class County extends DataSupport {
+
     private int id;
 
     private String countyName;
@@ -46,4 +47,6 @@ public class County extends DataSupport {
     public void setCityId(int cityId) {
         this.cityId = cityId;
     }
+
 }
+

@@ -3,14 +3,14 @@ package com.example.bm_pc.new_cool_weather.db;
 import org.litepal.crud.DataSupport;
 
 /**
- * Created by BM-PC on 2018/1/2.
+ * Created by Belief on 2018/1/2.
  */
 
-public class City  extends DataSupport {
-    private  int id;
-    private  String cityName;
-    private  int cityCode;
-    private  int provinceId;
+public class City extends DataSupport {
+    private int id;
+    private String cityName;
+    private int cityCode;
+    private int provinceId;
 
     public int getId() {
         return id;
