@@ -136,7 +136,7 @@ public class ChooseAreaFragment extends Fragment {
                 });
 
             }
-
+//更新
             @Override
             public void onResponse(Call call, Response response) throws IOException {
                 String responseText = response.body().string();
