@@ -1,4 +1,4 @@
-package com.example.bm_pc.util;
+package com.example.bm_pc.new_cool_weather.util;
 
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
