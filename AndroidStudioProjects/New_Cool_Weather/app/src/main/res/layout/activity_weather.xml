@@ -13,7 +13,7 @@
       android:id="@+id/bing_pic_img"
       android:scaleType="centerCrop"
       />
-
+    <!--sss-->
 
     <ScrollView
         android:id="@+id/weather_layout"
