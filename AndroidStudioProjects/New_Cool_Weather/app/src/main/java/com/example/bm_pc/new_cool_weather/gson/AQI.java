@@ -1,4 +1,4 @@
-package com.example.bm_pc.gson;
+package com.example.bm_pc.new_cool_weather.gson;
 
 /**
  * Created by BM-PC on 2018/1/3.

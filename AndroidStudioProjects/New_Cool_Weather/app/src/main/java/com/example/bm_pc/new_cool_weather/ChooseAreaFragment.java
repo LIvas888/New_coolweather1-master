@@ -14,7 +14,6 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.bm_pc.gson.Weather;
 import com.example.bm_pc.new_cool_weather.db.City;
 import com.example.bm_pc.new_cool_weather.db.County;
 import com.example.bm_pc.new_cool_weather.db.Province;

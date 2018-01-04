@@ -3,7 +3,7 @@ package com.example.bm_pc.new_cool_weather.util;
 import android.text.TextUtils;
 
 
-import com.example.bm_pc.gson.Weather;
+import com.example.bm_pc.new_cool_weather.gson.Weather;
 import com.example.bm_pc.new_cool_weather.db.City;
 import com.example.bm_pc.new_cool_weather.db.County;
 import com.example.bm_pc.new_cool_weather.db.Province;
